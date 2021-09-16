@@ -2,10 +2,10 @@
 - 🏫 Nanjing Foreign Languages School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S.)
 - 🎓 ? (M.S./M.Eng.)
-- 🌍 https://lyncli.xyz (Mandarin)
 - ⚡️ Retro technology, Internet of Things, open source, computer hardware, aviation, trains and more...
+- 🌍 https://lyncli.xyz (Mandarin)
 
-Currently focusing on fullstack web development, but also interested in Internet of Things and data analysis.
+Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.
 <!--
 **yichen0104/yichen0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

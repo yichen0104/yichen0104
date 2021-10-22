@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🏫 Nanjing Foreign Languages School (HS)
+- 🏫 Nanjing Foreign Language School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S.)
 - 🎓 ? (M.S./M.Eng.)
-- ⚡️ Retro technology, Internet of Things, open source, computer hardware, aviation, trains and more...
+- ⚡️ Retro technology, open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://lyncli.xyz (Mandarin)
 
 Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.

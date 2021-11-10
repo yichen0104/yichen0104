@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏫 Nanjing Foreign Language School (HS)
-- 🎓 Rensselaer Polytechnic Institute (B.S.)
+- 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
 - 🎓 ? (M.S./M.Eng.)
 - ⚡️ Retro technology, open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://lyncli.xyz (Mandarin)

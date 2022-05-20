@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🏫 Nanjing Foreign Language School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
-- 🎓 ? (M.S./M.Eng.)
+- 🎓 Carnegie Mellon University (METALS)
 - ⚡️ Retro technology, open source software, Internet of Things, computer hardware, aviation, trains and more...
-- 🌍 https://lyncli.xyz (Mandarin)
+- 🌍 https://lyncli.xyz (Chinese Simplified)
 
 Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.
 <!--

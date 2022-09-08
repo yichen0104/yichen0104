@@ -3,7 +3,7 @@
 - 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
 - 🎓 Carnegie Mellon University (METALS)
 - ⚡️ Retro technology, open source software, Internet of Things, computer hardware, aviation, trains and more...
-- 🌍 https://lyncli.xyz (Chinese Simplified)
+- 🌍 https://yichenli.space (zh-CN)
 
 Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.
 <!--

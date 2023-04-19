@@ -2,7 +2,8 @@
 - 🏫 Nanjing Foreign Language School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
 - 🎓 Carnegie Mellon University (HCII)
-- ⚡️ Retro technology, open source software, Internet of Things, computer hardware, aviation, trains and more...
+- 👌 Full-stack web development, MLOps, DevOps, API
+- ⚡️ Open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://yichenli.space (zh-CN)
 
 Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.

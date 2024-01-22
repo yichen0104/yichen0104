@@ -6,7 +6,6 @@
 - ⚡️ Open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://yichenli.space (zh-CN)
 
-Currently focusing on full-stack web development, but also interested in Internet of Things and data analysis.
 <!--
 **yichen0104/yichen0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

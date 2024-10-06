@@ -2,7 +2,8 @@
 - 🏫 Nanjing Foreign Language School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
 - 🎓 Carnegie Mellon University (Master, HCII, METALS)
-- 👌 Full-stack web development, Database, MLOps, DevOps, API
+- 💼 ❀, Shanghai, China
+- 👌 Database, Full-stack web development, AI, MLOps, etc.
 - ⚡️ Open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://yichenli.space (zh-CN)
 

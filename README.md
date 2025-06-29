@@ -2,7 +2,6 @@
 - 🏫 Nanjing Foreign Language School (HS)
 - 🎓 Rensselaer Polytechnic Institute (B.S. Computer Science)
 - 🎓 Carnegie Mellon University (Master, HCII, METALS)
-- 💼 Huawei
 - 👌 Database, C/C++, AI, MLOps, etc.
 - ⚡️ Open source software, Internet of Things, computer hardware, aviation, trains and more...
 - 🌍 https://yichenli.space (zh-CN)
